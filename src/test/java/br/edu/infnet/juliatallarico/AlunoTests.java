@@ -1,7 +1,7 @@
 package br.edu.infnet.juliatallarico;
 
-import br.edu.infnet.juliatallarico.model.Aluno;
-import br.edu.infnet.juliatallarico.model.Endereco;
+import br.edu.infnet.juliatallarico.model.domain.Aluno;
+import br.edu.infnet.juliatallarico.model.domain.Endereco;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

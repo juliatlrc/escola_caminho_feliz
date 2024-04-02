@@ -1,4 +1,6 @@
-package br.edu.infnet.juliatallarico.model;
+package br.edu.infnet.juliatallarico.model.domain;
+
+import br.edu.infnet.juliatallarico.model.domain.Endereco;
 
 public class Professor {
     private String nome;

@@ -1,7 +1,7 @@
-package br.edu.infnet.juliatallarico.model;
+package br.edu.infnet.juliatallarico.model.domain;
 
 
-    public class Aluno {
+public class Aluno {
         private String nomeCompleto;
         private int idade;
         private int ano;

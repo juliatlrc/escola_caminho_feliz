@@ -1,4 +1,4 @@
-package br.edu.infnet.juliatallarico.model;
+package br.edu.infnet.juliatallarico.model.domain;
 
 public class Endereco {
     /*private Integer id;*/

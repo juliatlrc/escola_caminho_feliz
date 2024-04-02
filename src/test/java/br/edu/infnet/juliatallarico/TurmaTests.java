@@ -1,9 +1,9 @@
 package br.edu.infnet.juliatallarico;
 
-import br.edu.infnet.juliatallarico.model.Aluno;
-import br.edu.infnet.juliatallarico.model.Endereco;
-import br.edu.infnet.juliatallarico.model.Professor;
-import br.edu.infnet.juliatallarico.model.Turma;
+import br.edu.infnet.juliatallarico.model.domain.Aluno;
+import br.edu.infnet.juliatallarico.model.domain.Endereco;
+import br.edu.infnet.juliatallarico.model.domain.Professor;
+import br.edu.infnet.juliatallarico.model.domain.Turma;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

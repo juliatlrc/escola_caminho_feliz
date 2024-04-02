@@ -1,4 +1,7 @@
-package br.edu.infnet.juliatallarico.model;
+package br.edu.infnet.juliatallarico.model.domain;
+import br.edu.infnet.juliatallarico.model.domain.Aluno;
+import br.edu.infnet.juliatallarico.model.domain.Professor;
+
 import java.util.ArrayList;
 import java.util.List;
 
